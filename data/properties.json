@@ -1,0 +1,206 @@
+[
+    {
+        "id": "iua7869",
+        "userId": "kua876",
+        "title": "Nomads Apartment - 1",
+        "location": [
+            -36.845919,
+            174.767400
+        ],
+        "type": "Apartment",
+        "numberOfRooms": 3,
+        "timeZone": "Pacific/Auckland"
+    },
+    {
+        "id": "i9872hh",
+        "userId": "kua876",
+        "title": "Nomads Apartment - 2",
+        "location": [
+            -36.845919,
+            174.767400
+        ],
+        "type": "Apartment",
+        "numberOfRooms": 2,
+        "timeZone": "Pacific/Auckland"
+    },
+    {
+        "id": "87692h",
+        "userId": "s976ikb",
+        "title": "Charming Villa",
+        "location": [
+            -38.684921,
+            176.091116
+        ],
+        "type": "House",
+        "numberOfRooms": 3,
+        "timeZone": "Pacific/Auckland"
+    },
+    {
+        "id": "61jhbv7",
+        "userId": "s976ikb",
+        "title": "Bram's Bach - 01",
+        "location": [
+            -38.716371,
+            176.087841
+        ],
+        "type": "House",
+        "numberOfRooms": 2,
+        "timeZone": "Pacific/Auckland"
+    },
+    {
+        "id": "723GVSU",
+        "userId": "s976ikb",
+        "title": "Bram's Bach - 02",
+        "location": [
+            -38.716371,
+            176.087841
+        ],
+        "type": "House",
+        "numberOfRooms": 3,
+        "timeZone": "Pacific/Auckland"
+    },
+    {
+        "id": "us728b2",
+        "userId": "s976ikb",
+        "title": "Rainbow Motel - Apartment 10",
+        "location": [
+            -38.718998,
+            176.080566
+        ],
+        "type": "Apartment",
+        "numberOfRooms": 3,
+        "timeZone": "Pacific/Auckland"
+    },
+    {
+        "id": "is72bhs",
+        "userId": "s976ikb",
+        "title": "Rainbow Motel - Studio 5",
+        "location": [
+            -38.718998,
+            176.080566
+        ],
+        "type": "Apartment",
+        "numberOfRooms": 1,
+        "timeZone": "Pacific/Auckland"
+    },
+    {
+        "id": "isd722",
+        "userId": "s976ikb",
+        "title": "Rainbow Motel - Studio 6",
+        "location": [
+            -38.718998,
+            176.080566
+        ],
+        "type": "Apartment",
+        "numberOfRooms": 1,
+        "timeZone": "Pacific/Auckland"
+    },
+    {
+        "id": "dj72829",
+        "userId": "s976ikb",
+        "title": "Rainbow Motel - Studio 7",
+        "location": [
+            -38.718998,
+            176.080566
+        ],
+        "type": "Apartment",
+        "numberOfRooms": 1,
+        "timeZone": "Pacific/Auckland"
+    },
+    {
+        "id": "duw8282a",
+        "userId": "ye89378",
+        "title": "Parsons Hill - Apt 1",
+        "location": [
+            -33.950556,
+            25.585882
+        ],
+        "type": "Apartment",
+        "numberOfRooms": 2,
+        "timeZone": "Africa/Johannesburg"
+    },
+    {
+        "id": "jusd7277",
+        "userId": "ye89378",
+        "title": "Parsons Hill - Apt 2",
+        "location": [
+            -33.950556,
+            25.585882
+        ],
+        "type": "Apartment",
+        "numberOfRooms": 2,
+        "timeZone": "Africa/Johannesburg"
+    },
+    {
+        "id": "uds72782",
+        "userId": "ye89378",
+        "title": "Parsons Hill - Apt 3",
+        "location": [
+            -33.950556,
+            25.585882
+        ],
+        "type": "Apartment",
+        "numberOfRooms": 3,
+        "timeZone": "Africa/Johannesburg"
+    },
+    {
+        "id": "hs728js78",
+        "userId": "ks9082n",
+        "title": "Camino Real - Villa 1",
+        "location": [
+            35.489662,
+            -120.669965
+        ],
+        "type": "House",
+        "numberOfRooms": 4,
+        "timeZone": "America/Los_Angeles"
+    },
+    {
+        "id": "js881891",
+        "userId": "ks9082n",
+        "title": "Camino Real - Villa 2",
+        "location": [
+            35.489662,
+            -120.669965
+        ],
+        "type": "House",
+        "numberOfRooms": 2,
+        "timeZone": "America/Los_Angeles"
+    },
+    {
+        "id": "du782hjs9",
+        "userId": "ks9082n",
+        "title": "Camino Real - Villa 3",
+        "location": [
+            35.489662,
+            -120.669965
+        ],
+        "type": "House",
+        "numberOfRooms": 2,
+        "timeZone": "America/Los_Angeles"
+    },
+    {
+        "id": "du782hjs9",
+        "userId": "ks9082n",
+        "title": "Passiflora - Apt 1",
+        "location": [
+            49.263316,
+            -123.074853
+        ],
+        "type": "Apartment",
+        "numberOfRooms": 2,
+        "timeZone": "America/Vancouver"
+    },
+    {
+        "id": "xj287821b",
+        "userId": "ks9082n",
+        "title": "Passiflora - Apt 2",
+        "location": [
+            49.263316,
+            -123.074853
+        ],
+        "type": "Apartment",
+        "numberOfRooms": 2,
+        "timeZone": "America/Vancouver"
+    }
+]

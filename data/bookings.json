@@ -1,0 +1,102 @@
+[
+    {
+        "id": "ksi7272",
+        "propertyId": "iua7869",
+        "startDate": "2018-02-15T12:00:00.000Z",
+        "endDate": "2018-02-24T12:00:00.000Z"
+    },
+    {
+        "id": "aks8282",
+        "propertyId": "iua7869",
+        "startDate": "2018-02-25T12:00:00.000Z",
+        "endDate": "2018-02-28T12:00:00.000Z"
+    },
+    {
+        "id": "dsku28",
+        "propertyId": "iua7869",
+        "startDate": "2018-03-10T12:00:00.000Z",
+        "endDate": "2018-03-18T12:00:00.000Z"
+    },
+
+
+    {
+        "id": "is772ygh2",
+        "propertyId": "i9872hh",
+        "startDate": "2018-02-10T12:00:00.000Z",
+        "endDate": "2018-02-28T12:00:00.000Z"
+    },
+    {
+        "id": "skd8728",
+        "propertyId": "i9872hh",
+        "startDate": "2018-03-02T12:00:00.000Z",
+        "endDate": "2018-05-01T12:00:00.000Z"
+    },
+    {
+        "id": "lds8328",
+        "propertyId": "i9872hh",
+        "startDate": "2018-05-10T12:00:00.000Z",
+        "endDate": "2018-05-18T12:00:00.000Z"
+    },
+
+
+    {
+        "id": "is772ygh2",
+        "propertyId": "jusd7277",
+        "startDate": "2018-06-10T12:00:00.000Z",
+        "endDate": "2018-06-28T12:00:00.000Z"
+    },
+    {
+        "id": "skd8728",
+        "propertyId": "jusd7277",
+        "startDate": "2018-06-29T12:00:00.000Z",
+        "endDate": "2018-06-31T12:00:00.000Z"
+    },
+    {
+        "id": "lds8328",
+        "propertyId": "jusd7277",
+        "startDate": "2018-06-31T12:00:00.000Z",
+        "endDate": "2018-07-05T12:00:00.000Z"
+    },
+
+
+
+    {
+        "id": "is772ygh2",
+        "propertyId": "xj287821b",
+        "startDate": "2018-04-10T12:00:00.000Z",
+        "endDate": "2018-06-20T12:00:00.000Z"
+    },
+    {
+        "id": "skd8728",
+        "propertyId": "xj287821b",
+        "startDate": "2018-06-20T12:00:00.000Z",
+        "endDate": "2018-06-31T12:00:00.000Z"
+    },
+    {
+        "id": "lds8328",
+        "propertyId": "xj287821b",
+        "startDate": "2018-07-01T12:00:00.000Z",
+        "endDate": "2018-07-05T12:00:00.000Z"
+    },
+
+
+    {
+        "id": "is772ygh2",
+        "propertyId": "dj72829",
+        "startDate": "2018-03-10T12:00:00.000Z",
+        "endDate": "2018-05-01T12:00:00.000Z"
+    },
+    {
+        "id": "skd8728",
+        "propertyId": "dj72829",
+        "startDate": "2018-05-02T12:00:00.000Z",
+        "endDate": "2018-05-28T12:00:00.000Z"
+    },
+    {
+        "id": "lds8328",
+        "propertyId": "dj72829",
+        "startDate": "2018-05-30T12:00:00.000Z",
+        "endDate": "2018-06-01T12:00:00.000Z"
+    }
+
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "kua876",
+        "name": "John Snow",
+        "email": "john@acme.com",
+        "location": [
+            -36.847610,
+            174.767379
+        ],
+        "subscriptionId": "sub01"
+    },
+    {
+        "id": "s976ikb",
+        "name": "Sim OKeefe85",
+        "email": "Sim.OKeefe85@stomp.com",
+        "location": [
+            60.797559,
+            10.690007
+        ],
+        "subscriptionId": "sub02"
+    },
+    {
+        "id": "ye89378",
+        "name": "Norval Harvey",
+        "email": "Norval.Harvey@newway.com",
+        "location": [
+            -33.940275,
+            25.565720
+        ],
+        "subscriptionId": "sub03"
+    },
+    {
+        "id": "ks9082n",
+        "name": "Dalton Waelchi",
+        "email": "Dalton.Waelchi@future.com",
+        "location": [
+            35.489662,
+            -120.669965
+        ],
+        "subscriptionId": "sub04"
+    }
+]

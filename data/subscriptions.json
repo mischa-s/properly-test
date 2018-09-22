@@ -1,0 +1,21 @@
+[
+    {
+        "id": "sub01",
+        "name": "Free Tier"
+    } ,
+    {
+        "id": "sub02",
+        "name": "Free Tier"
+    },
+
+    {
+        "id": "sub03",
+        "name": "Premium"
+    },
+
+    {
+        "id": "sub04",
+        "name": "Premium"
+    }
+
+]
