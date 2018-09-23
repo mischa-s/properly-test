@@ -1,5 +1,7 @@
 module.exports = function(users, city) {
-  return users.map(user => {
+  const limitedUsers = JSON.parse(JSON.stringify(users));
+
+  return limitedUsers.map(user => {
     if (!(user.city == city)) return user;
 
     if (user.subscriptionId != "sub03" || user.subscriptionId != "sub04") {

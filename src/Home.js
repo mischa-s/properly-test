@@ -29,9 +29,9 @@ class Home extends React.Component {
     const locatedProperties = [];
     const locatedUsers = [];
 
-    properties.map(user => {
-      fetchItemsCity(user)
-        .then(property => locatedProperties.push(user))
+    properties.map(property => {
+      fetchItemsCity(property)
+        .then(property => locatedProperties.push(property))
         .then(property =>
           this.setState({
             locatedProperties

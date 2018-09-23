@@ -25,7 +25,7 @@ module.exports = function() {
           : false;
       }
     );
-
+    // get the property for the corresponding bookings
     return bookingsWithLessThanOneDayBetweenFound
       ? find(
           properties,
