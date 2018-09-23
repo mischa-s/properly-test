@@ -2,6 +2,20 @@
 Code challenge for full stack developers.
 
 ## Solution
+To view the result 
+
+Clone the repo:
+
+### `git clone https://github.com/mischa-s/properly-test`
+
+Navigate to the repo:
+
+### `cd properly-test`
+
+Install the dependencies: 
+
+### `npm install`
+
 Run the project in development mode using
 
 ### `npm start`
