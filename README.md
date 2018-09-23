@@ -110,13 +110,6 @@ Create functions that return:
 
  - 3.1. How to limit the users that live in a different city to just use premium subscription?
 
-
-## FAQ
-1 -  Where can I find the city for Property and User?
-Use the GPS location provided.
-
-I have embeded all the functions 
-
 ### `npm start` or `yarn start`
 
 Runs the project in development mode.  
