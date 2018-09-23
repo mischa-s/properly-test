@@ -4,17 +4,13 @@ Code challenge for full stack developers.
 ## Solution
 To view the result 
 
-Clone the repo:
+Clone the repo, navigate to it, and install the dependencies:
 
-### `git clone https://github.com/mischa-s/properly-test`
-
-Navigate to the repo:
-
-### `cd properly-test`
-
-Install the dependencies: 
-
-### `npm install`
+`
+git clone https://github.com/mischa-s/properly-test
+cd properly-test
+npm install
+`
 
 Run the project in development mode using
 
