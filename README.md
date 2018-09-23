@@ -2,7 +2,7 @@
 Code challenge for full stack developers.
 
 ## Solution
-To view the result clone the repo, navigate to it, and install the dependencies:
+To view the result, clone the repo, navigate to it, and install the dependencies:
 
 ```
 git clone https://github.com/mischa-s/properly-test
