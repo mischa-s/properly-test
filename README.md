@@ -1,7 +1,14 @@
 # Properly Coding Challenge
 Code challenge for full stack developers.
 
-The format of the Code Challenge is as follows:
+### `npm start` or `yarn start`
+
+Runs the project in development mode.  
+You can view your application at `http://localhost:3000`
+
+The page will reload if you make edits.
+
+### The format of the Code Challenge is as follows:
 
 - Please clone/download the Git repository to have access to all the assets you need to complete this tasks.
 
@@ -109,14 +116,6 @@ Create functions that return:
 #### Task Group 3
 
  - 3.1. How to limit the users that live in a different city to just use premium subscription?
-
-### `npm start` or `yarn start`
-
-Runs the project in development mode.  
-You can view your application at `http://localhost:3000`
-
-The page will reload if you make edits.
-
 
 
 ## App Scaffolded using [Razzle](https://github.com/jaredpalmer/razzle)
