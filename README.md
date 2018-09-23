@@ -133,7 +133,7 @@ Create functions that return:
 
 #### Task Group 3
 
- - 3.1. How to limit the users that live in a different city to just use premium subscription?
+ - 3.1. How would you identify users who live in any given city and make it mandatory that users from that city are only allowed to have a premium subscription?
 
 
 ## App Scaffolded using [Razzle](https://github.com/jaredpalmer/razzle)
