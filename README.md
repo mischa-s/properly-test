@@ -1,12 +1,20 @@
 # Properly Coding Challenge
 Code challenge for full stack developers.
 
-### `npm start` or `yarn start`
+## Solution
+Run the project in development mode using
 
-Runs the project in development mode.  
-You can view your application at `http://localhost:3000`
+### `npm start`
+
+You can then view the application at `http://localhost:3000`
 
 The page will reload if you make edits.
+
+### Functions
+The functions used to solve the challenge are all in ```src/helperFunctions```.
+
+### Components 
+Each challenge completed has it's own component in ```src/Components```. These components are then passed to ```src/Home.js``` to render the results and demonstrate that the functions work with data provided.
 
 ### The format of the Code Challenge is as follows:
 
