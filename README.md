@@ -128,15 +128,11 @@ Create functions that return:
  - 3.1. How would you identify users who live in any given city and make it mandatory that users from that city are only allowed to have a premium subscription?
 
 
-## App Scaffolded using [Razzle](https://github.com/jaredpalmer/razzle)
-
-#### Razzle Author
-
-* [Jared Palmer](https://twitter.com/jaredpalmer)
+## To present my solutions to this challenge I used [Razzle](https://github.com/jaredpalmer/razzle) created by [Jared Palmer](https://github.com/jaredpalmer) to generate a simple react app 
 
 MIT License
 
-## Contributors
+## Razzle Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
