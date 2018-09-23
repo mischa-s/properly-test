@@ -26,7 +26,7 @@ The functions used to solve the challenge are all in ```src/helperFunctions```.
 ### Components 
 Each challenge completed has it's own component in ```src/Components```. These components are then passed to ```src/Home.js``` to render the results and demonstrate that the functions work with data provided.
 
-### The format of the Code Challenge is as follows:
+## The format of the Code Challenge is as follows:
 
 - Please clone/download the Git repository to have access to all the assets you need to complete this tasks.
 
