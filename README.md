@@ -61,14 +61,6 @@ Along with your submission, please include instruction on how to run your code.
     - Use of tools (e.g. Git)
     - Delivery
 
-## Format
- - A candidate will be assigned to one or more tasks listed below. 
-    - Clone/download the Git repository to have access to all the assets he needs to complete the tasks.
-    - Estimate the time needed to complete each task and provide an estimated date of delivery 
-    - Complete the tasks and upload the resulting code and any other assets to a public github repository
-    - Provide the link to the repository for the solution to be reviewed
-    - If required, demo the solution during a technical interview. Be prepared to perform pair programming during the technical interview. Additional requirements may be introduced, or a different approach may be tried (20 to 45 mins max).
-
 ## Problem Statement
 
 Given a **Database** of:
