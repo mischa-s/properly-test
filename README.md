@@ -117,13 +117,13 @@ You can view your application at `http://localhost:3000`
 
 The page will reload if you make edits.
 
-#### App Scaffolded using [Razzle](https://github.com/jaredpalmer/razzle)
+
+
+## App Scaffolded using [Razzle](https://github.com/jaredpalmer/razzle)
 
 #### Razzle Author
 
 * [Jared Palmer](https://twitter.com/jaredpalmer)
-
----
 
 MIT License
 
