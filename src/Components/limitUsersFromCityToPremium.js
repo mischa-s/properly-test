@@ -10,7 +10,9 @@ class LimitUsersFromCityToPremium extends React.Component {
     return (
       <div>
         <h2>
-          3.1. How would you identify users who live in any given city and make it mandatory that users from that city are only allowed to have a premium subscription?
+          3.1. How would you identify users who live in any given city and make
+          it mandatory that users from that city are only allowed to have a
+          premium subscription?
         </h2>
         <h3>Auckland Users Pay Premium!</h3>
         {addUsersSubscriptionName(

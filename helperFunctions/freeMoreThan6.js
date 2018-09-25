@@ -18,6 +18,6 @@ module.exports = function(properties, users) {
       );
     });
   });
-  // remove false's from array
+  // remove falses from array
   return filter(usersMoreThan6, user => user)
 };

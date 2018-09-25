@@ -1,4 +1,4 @@
-module.exports = async function(item) {
+module.exports = function(item) {
   const { location } = item;
   if (!location) return;
 
