@@ -2,9 +2,7 @@
 Code challenge for full stack developers.
 
 ## Solution
-To view the result 
-
-Clone the repo, navigate to it, and install the dependencies:
+To view the result, clone the repo, navigate to it, and install the dependencies:
 
 ```
 git clone https://github.com/mischa-s/properly-test
@@ -60,14 +58,6 @@ Along with your submission, please include instruction on how to run your code.
     - Task sizing and work estimation
     - Use of tools (e.g. Git)
     - Delivery
-
-## Format
- - A candidate will be assigned to one or more tasks listed below. 
-    - Clone/download the Git repository to have access to all the assets he needs to complete the tasks.
-    - Estimate the time needed to complete each task and provide an estimated date of delivery 
-    - Complete the tasks and upload the resulting code and any other assets to a public github repository
-    - Provide the link to the repository for the solution to be reviewed
-    - If required, demo the solution during a technical interview. Be prepared to perform pair programming during the technical interview. Additional requirements may be introduced, or a different approach may be tried (20 to 45 mins max).
 
 ## Problem Statement
 
@@ -136,15 +126,11 @@ Create functions that return:
  - 3.1. How would you identify users who live in any given city and make it mandatory that users from that city are only allowed to have a premium subscription?
 
 
-## App Scaffolded using [Razzle](https://github.com/jaredpalmer/razzle)
-
-#### Razzle Author
-
-* [Jared Palmer](https://twitter.com/jaredpalmer)
+## To present my solutions to this challenge I used [Razzle](https://github.com/jaredpalmer/razzle) created by [Jared Palmer](https://github.com/jaredpalmer) to generate a simple react app 
 
 MIT License
 
-## Contributors
+## Razzle Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
